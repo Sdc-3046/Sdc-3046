@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate software developer from India, Currently living in Dublin, Ireland</h3>
 
-- 🔭 I’m currently working on [Viberoom](https://viberoom.onrender.com/)
+- 🔭 I’m currently working on Customer Segmentation for Marketing Project using MERN and KNN.
 
 - 🌱 I’m currently learning about **AWS Lambda, Cloud Technologies**
 
