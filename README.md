@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Customer Segmentation for Marketing Project using MERN and KNN.<br><br>- 🌱 I’m currently learning about **AWS Lambda, Cloud Technologies**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Sdc-3046](https://github.com/Sdc-3046)<br><br>- 💬 Ask me about **Java, React, Nodejs**<br><br>- ⚡ Fun fact **The first computer "bug" was an actual bug! In 1947, a moth got stuck in a relay of the Harvard Mark II computer, causing it to malfunction.😄**<br>
+🌱 I’m currently learning about **AWS Lambda, Cloud Technologies**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Sdc-3046](https://github.com/Sdc-3046)<br><br>- 💬 Ask me about **Java, React, Nodejs**<br><br>- ⚡ Fun fact **The first computer "bug" was an actual bug! In 1947, a moth got stuck in a relay of the Harvard Mark II computer, causing it to malfunction.😄**<br>
 
 
 ## 🌐 Socials:
