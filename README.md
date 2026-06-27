@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about **AWS Lambda, Cloud Technologies**<br><br>- 👨‍💻 All of my projects are available at [Shubham's Projects](https://github.com/Sdc-3046?tab=repositories)<br><br>- 💬 Ask me about **Java, React, Nodejs**<br><br>- ⚡ Fun fact **The first computer "bug" was an actual bug! In 1947, a moth got stuck in a relay of the Harvard Mark II computer, causing it to malfunction.😄**<br>
+🌱 I’m currently learning about **Azure Cloud, ASP.Net, Bicep files for Azure deployment**<br><br>- 👨‍💻 All of my repositories are available at [Shubham's Projects](https://github.com/Sdc-3046?tab=repositories)<br><br>- 💬 Ask me about **ASP.Net, Azure CLI, CI/CD Pipelines**<br><br>- ⚡ Fun fact **The first computer "bug" was an actual bug! In 1947, a moth got stuck in a relay of the Harvard Mark II computer, causing it to malfunction.😄**<br>
 
 
 ## 🌐 Socials:
